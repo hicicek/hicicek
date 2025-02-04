@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome to My GitHub! 👋
+
+Hi, I'm Halil Ibrahim, interested in AI, and Automotive.  
 
 <!--
 **hicicek/hicicek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
