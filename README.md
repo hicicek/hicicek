@@ -1,7 +1,16 @@
-# Welcome to My GitHub! 👋
+# Hi, I'm Halil 👋
 
-Computer Vision & AI Analytics Developer
-I build end-to-end systems around ML pipelines.
+I build end-to-end AI systems around computer vision and analytics pipelines.
+
+## 🚦 Featured Projects
+- InsightGate – Traffic analytics & AI reporting dashboard
+- AutoGate – Real-time vehicle and license plate detection system
+
+## 🧠 Interests
+Computer Vision · Backend Systems · AI Analytics · Automation
+
+Currently focused on building production-style AI systems that transform raw ML outputs into structured insights.
+
 
 LinkedIn: https://www.linkedin.com/in/halilibrahimcicek/
 
