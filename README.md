@@ -1,6 +1,9 @@
 # Welcome to My GitHub! 👋
 
-Hi, I'm Halil Ibrahim, interested in AI, and Automotive.  
+Computer Vision & AI Analytics Developer
+I build end-to-end systems around ML pipelines.
+
+LinkedIn: https://www.linkedin.com/in/halilibrahimcicek/
 
 <!--
 **hicicek/hicicek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
